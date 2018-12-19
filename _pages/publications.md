@@ -10,13 +10,13 @@ author_profile: true
 <b>[Knowledge Transfer in Vision Recognition: A Survey](http://134ms.github.io/files/knowledge-transfer-vision-v0.pdf)</b> <br>
 <b>Ying Lu</b>, Di Huang, Lingkun Luo, Alexandre Saidi, Yunhong Wang, Liming Chen.
 
+<b>[Discriminative Transfer Learning using Similarities and Dissimilarities](https://ieeexplore.ieee.org/document/7968388)</b> <br>
+<b>Ying Lu</b>, Liming Chen, Alexandre Saidi, Emmanuel Dellandrea, Yunhong Wang. <i>IEEE Transactions on Neural Networks and Learning Systems (NNLS), 2018.</i>
+
 <b>[Discriminative Label Consistent Domain Adaptation](https://arxiv.org/abs/1802.08077)</b> <br>
 Lingkun Luo, Liming Chen, <b>Ying Lu</b>, Shiqiang Hu. <i>arXiv preprint arXiv:1802.08077, 2018.</i>
 
 ## 2017
-
-<b>[Discriminative Transfer Learning using Similarities and Dissimilarities](https://ieeexplore.ieee.org/document/7968388)</b> <br>
-<b>Ying Lu</b>, Liming Chen, Alexandre Saidi, Emmanuel Dellandrea, Yunhong Wang. <i>IEEE Transactions on Neural Networks and Learning Systems (NNLS), 2017.</i>
 
 <b>[Brenier approach for optimal transportation between a quasi-discrete measure and a discrete measure](http://www.arts-pi.org.tn/rfmi2017/papers/11_CameraReadySubmission_ying-brenier-2017_RFMI_CR.pdf)</b> <br>
 <b>Ying Lu</b>, Liming Chen, Alexandre Saidi, Xianfeng Gu. <i>International Workshop on Representation, analysis and recognition of shape and motion FroM Image data (RFMI), 2017.</i>
