@@ -7,8 +7,8 @@ author_profile: true
 
 ## 2018
 
-<b>[Knowledge Transfer in Vision Recognition: A Survey](http://134ms.github.io/files/knowledge-transfer-vision-v0.pdf)</b> <br>
-<b>Ying Lu</b>, Di Huang, Lingkun Luo, Alexandre Saidi, Yunhong Wang, Liming Chen.
+<b>[Knowledge Transfer in Vision Recognition: A Survey](https://hal.archives-ouvertes.fr/hal-02101005)</b> <br>
+<b>Ying Lu</b>, Lingkun Luo, Di Huang, Alexandre Saidi, Yunhong Wang, Liming Chen.
 
 <b>[Discriminative Transfer Learning using Similarities and Dissimilarities](https://ieeexplore.ieee.org/document/7968388)</b> <br>
 <b>Ying Lu</b>, Liming Chen, Alexandre Saidi, Emmanuel Dellandrea, Yunhong Wang. <i>IEEE Transactions on Neural Networks and Learning Systems (NNLS), 2018.</i>
