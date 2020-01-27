@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Thesis
+<b>[Transfer Learning for Image Classification](https://tel.archives-ouvertes.fr/tel-02065405/document)</b> <br>
+<b>Ying Lu</b>, <i>2017.</i>
+
 ## 2020
 
 <b>[Knowledge Transfer in Vision Recognition: A Survey](https://hal.archives-ouvertes.fr/hal-02101005)</b> <br>
