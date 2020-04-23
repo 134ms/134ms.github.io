@@ -11,7 +11,7 @@ author_profile: true
 
 ## Journal papers
 
-<b>[Knowledge Transfer in Vision Recognition: A Survey](https://hal.archives-ouvertes.fr/hal-02101005)</b> <br>
+<b>[Knowledge Transfer in Vision Recognition: A Survey](https://dl.acm.org/doi/abs/10.1145/3379344)</b> <br>
 <b>Ying Lu</b>, Lingkun Luo, Di Huang, Yunhong Wang, Liming Chen. <i>ACM Computing Surveys, 2020.</i>
 
 <b>[Discriminative and Geometry Aware Unsupervised Domain Adaptation](https://ieeexplore.ieee.org/document/8961922)</b> <br>
